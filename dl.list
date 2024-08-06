@@ -4,3 +4,10 @@
 # DOMAIN-KEYWORD,openai
 # IP-CIDR,24.199.123.28/32,no-resolve
 # IP-ASN,20473,no-resolve
+
+# 内容：google
+USER-AGENT,*google*
+USER-AGENT,GooGle*
+DOMAIN-KEYWORD,google
+DOMAIN,google.com
+DOMAIN,google.com.hk
